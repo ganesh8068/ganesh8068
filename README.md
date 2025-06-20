@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Crypto Tracker**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms*
+- 🌱 I’m currently learning **Data Structure and Algorithms**
 
 - 💬 Ask me about **C++, Java, Web Development, Asp.Net**
 
