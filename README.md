@@ -4,16 +4,20 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ganesh Lokhande</h1>
-<h3 align="center">A passionate Fullstack Web Developer from India currently pursuing B.tech CSE.</h3>
+<h3 align="center">
+  Fullstack Web Developer & Open Source Contributor | B.Tech CSE Student
+</h3>
 
 
-- 🔭 I’m currently working on **Crypto Tracker**
+<p align="center">
+  <i>
+Full-stack web developer and open-source contributor, currently building Optimizer AI, strengthening DSA and system design skills, and experienced in C++, Java, ASP.NET, React, and modern web development.
+  </i>
+</p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+<br/>
 
-- 💬 Ask me about **C++, Java, Web Development, Asp.Net**
-
-- 📫 How to reach me **ganeshlokhande2707@gmail.com**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +30,21 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,git,github,graphql,materialui,mysql,netlify,nextjs,nodejs,postgres,react,solidity,supabase,tailwind,vscode)](https://skillicons.dev)
+
+<br/>
+
+</div>
+
+## 🏆 Achievements
+
+I am proud to have my code accepted and merged into significant open-source projects.
+
+### ⏩ [Vite](https://github.com/vitejs/vite)
+*   **Core Contribution:**: Added missing documentation for style, sass, and less export conditions in Vite’s module resolution.
+*   **Impact**: Eliminated undocumented behavior, improving developer understanding and preventing confusion when working with style, Sass, and Less imports. (PR [#21583](https://github.com/vitejs/vite/pull/21583#event-22667126031) - **Merged**)
+
+
+### 🧹 [MapLibre](https://github.com/maplibre)
+*   **Core Feature**: Added native click event handling to MapLibre markers.
+*   **Impact**: Simplified interactive map development by allowing direct marker click listeners with test-backed reliability. (PR [#7028](https://github.com/maplibre/maplibre-gl-js/pull/7028#event-22571255938) - **Merged**)
 
