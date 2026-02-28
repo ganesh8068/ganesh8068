@@ -42,9 +42,11 @@ I am proud to have my code accepted and merged into significant open-source proj
 ### ⚡ [Vite](https://github.com/vitejs/vite)
 *   **Core Contribution:**: Added missing documentation for style, sass, and less export conditions in Vite’s module resolution.
 *   **Impact**: Eliminated undocumented behavior, improving developer understanding and preventing confusion when working with style, Sass, and Less imports. (PR [#21583](https://github.com/vitejs/vite/pull/21583#event-22667126031) - **Merged**)
+  
 
 
 ### 🗺️ [MapLibre](https://github.com/maplibre)
 *   **Core Feature**: Added native click event handling to MapLibre markers.
 *   **Impact**: Simplified interactive map development by allowing direct marker click listeners with test-backed reliability. (PR [#7028](https://github.com/maplibre/maplibre-gl-js/pull/7028#event-22571255938) - **Merged**)
+       > *"We would like to thank all the contributors this month for these versions, truly inspiring work!"* — @HarelM (Owner) [Link](https://github.com/maplibre/maplibre.github.io/issues/561#issuecomment-3972671718)
 
